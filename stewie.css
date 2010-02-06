@@ -1,0 +1,127 @@
+
+			
+			#wrapper {
+				
+				width: 1022px;
+				margin: auto;
+				
+			}
+			#header {
+				color: red;
+				font-family: Arial, sans-serif;
+				font-size: 70px;
+				font-style: italic;
+				font-weight: bold;
+				padding: 10px;
+				padding: 0 50px 0 50px;
+				border: 1px solid #ccc;
+				height: 250px;
+				margin: 10px 0px 5px 0px;
+				background: black;
+				background-image: url('http://www.beyondavatars.com/data/media/35/stewie_sexy_dance.gif');
+				background-repeat: no-repeat;
+				background-position: right;
+				
+				
+			}
+			
+			
+			#header_lower_text	{
+				color: red;
+				font-family: Arial, sans-serif;
+				font-size: 50px;
+				font-style: italic;
+				font-weight: normal;
+				margin-top: 30px;
+				
+			}
+			
+			#headerpic	{
+				
+				
+				
+			}
+			#leftcolumn {
+				color: #EEF3E2;
+				font-family: "Times New Roman", serif;
+				font-size: 40px;
+				font-style: oblique;
+				border: 1px solid #ccc;
+				background: #0500A8;
+				margin: 0px 5px 5px 0px;
+				padding: 10px;
+				width: 245px;
+				float: left;
+			}
+			
+			#leftcolumn_text	{
+				font-family: "Times New Roman", serif;
+				font-size: 15px;
+				font-style: normal;
+				color: silver;
+				font-weight: bold;
+				margin-bottom: 24px;
+				
+			}
+			#rightcolumn {
+				color: #E20909;
+				font-family: "Courier New", monospace;
+				font-size: 50px;
+				font-style: oblique;
+				float: right;
+				border: 1px solid #ccc;
+				background: #286525;
+				margin: 0 0 5px;
+				padding: 10px;
+				
+				width: 728px;
+			}
+			
+			#pic_top_left{
+				margin: 20px;
+				float: left;
+			}
+			#pic_bottom_left	{
+				border: 1px solid #ccc;
+				width: 375px;
+				height: 300px;
+				float: left;
+				margin: 0px 20px 20px 20px;
+				position: inherit;
+			}
+			
+			#quote_top_right	{
+				color: gold;
+				font-family: "Courier New", monospace;
+				font-size: 30px;
+				font-style: oblique;
+				margin-top: 20px;
+			
+			}
+			
+			#quote_bottom_right	{
+				color: gold;
+				font-family: "Courier New", monospace;
+				font-size: 30px;
+				font-style: oblique;
+				margin-top: 110px;
+			}
+			#footer {
+				color: #333333;
+				font-family: Georgia, "Times New Roman", Times, serif;
+				font-size: 30px;
+				font-style: normal;
+				border: 1px solid #ccc;
+				background: #235154;
+				margin: 0 0 10px;
+				padding: 10px;
+				padding-bottom: 20px;
+				width: 1000px;
+				clear: both;
+			}
+		
+		
+a:link {color:#00FF00}      /* unvisited link */
+a:visited {color:blue}  /* visited link */
+a:hover {color:black}  /* mouse over link */
+a:active {color:black}  /* selected link */

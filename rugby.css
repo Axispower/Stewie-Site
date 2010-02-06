@@ -1,0 +1,178 @@
+body{
+	background-image: url('http://iamlistener.com/gryphons/images/ark_gryphons_shortscrest.jpg');
+}
+
+	#wrapper {
+				
+				width: 1022px;
+				margin: auto;
+				
+			}
+			#header {
+				color: #daa520;
+				font-family: Arial, sans-serif;
+				font-size: 70px;
+				font-style: italic;
+				font-weight: bold;
+
+				padding: 0 50px 0 50px;
+				border: 15px groove #daa520;
+				height: 375px;
+				margin: 10px 0px 5px 0px;
+				background: #556b2f;
+				background-image: url('http://www.peakxvsports.co.uk/images/uploads/VapourC2_p6_0018copy.jpg');
+				background-repeat: no-repeat;
+				background-position: right;
+				
+			}
+			
+			
+			#header_lower_text	{
+				color: #daa520;
+				font-family: Arial, sans-serif;
+				font-size: 125px;
+				font-style: italic;
+				font-weight: bold;
+				margin-top: 30px;
+				
+			}
+			
+				
+			#leftcolumn {
+				color: #EEF3E2;
+				font-family: "Times New Roman", serif;
+				font-size: 45px;
+				font-style: oblique;
+				font-weight: bold;
+				border: 1px solid #daa520;
+				background: #696969;
+				margin: 0px 5px 5px 0px;
+				padding: 10px;
+				width: 245px;
+				float: left;
+				height: 3000px;
+			}
+			
+			#leftcolumn_text	{
+				font-family: "Times New Roman", serif;
+				font-size: 30px;
+				font-style: normal;
+				color: silver;
+				font-weight: bold;
+				margin-bottom: 24px;
+				
+			}
+			#rightcolumn {
+				color: #E20909;
+				font-family: "Courier New", monospace;
+				font-size: 50px;
+				font-style: oblique;
+				float: right;
+				border: 1px solid #daa520;
+				background: #286525;
+				margin: 0 0 5px;
+				padding: 10px;
+				height: 3000px;
+				width: 728px;
+			}
+			
+			#pic_top_left{
+				margin: 20px;
+				float: left;
+			}
+			#pic_bottom_left	{
+				border: 1px solid #ccc;
+				float: left;
+				margin: 0px 20px 20px 20px;
+				position: inherit;
+			}
+			
+			#pic_three	{
+				margin: 20px;
+				float: left;
+				
+			}	
+			
+			#pic_four	{
+				margin: 20px;
+				float: left;
+				
+			}
+			
+			#pic_five	{
+				margin: 20px;
+				float: left;
+				
+			}
+			
+			#pic_six	{
+				margin: 20px;
+				float: left;
+				
+			}
+			
+			#quote_top_right	{
+				color: gold;
+				font-family: "Courier New", monospace;
+				font-size: 30px;
+				font-style: oblique;
+				margin-top: 20px;
+			
+			}
+			
+			#quote_bottom_right	{
+				color: gold;
+				font-family: "Courier New", monospace;
+				font-size: 30px;
+				font-style: oblique;
+				margin-top: 110px;
+			}
+			
+			#quote_third_right	{
+				color: gold;
+				font-family: "Courier New", monospace;
+				font-size: 30px;
+				font-style: oblique;
+				margin-top: 1100px;
+			}
+			
+			#quote_fourth_right	{
+				color: gold;
+				font-family: "Courier New", monospace;
+				font-size: 30px;
+				font-style: oblique;
+				margin-top: 510px;
+			}
+			
+			#quote_fifth_right	{
+				color: gold;
+				font-family: "Courier New", monospace;
+				font-size: 30px;
+				font-style: oblique;
+				margin-top: 510px;
+			}
+			
+			#footer {
+				color: #333333;
+				font-family: Georgia, "Times New Roman", Times, serif;
+				font-size: 30px;
+				font-style: normal;
+				border: 1px solid #ccc;
+				background: #235154;
+				margin: 0 0 10px;
+				padding: 10px;
+				padding-bottom: 20px;
+				width: 1000px;
+				clear: both;
+			}
+			
+			#navlist li	{
+				display: inline;
+				list-style-type: none;
+				padding-right: 20px;
+			}
+			
+a:link {color:#00FF00}      /* unvisited link */
+a:visited {color:blue}  /* visited link */
+a:hover {color:black}  /* mouse over link */
+a:active {color:black}  /* selected link */
